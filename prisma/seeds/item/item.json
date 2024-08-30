@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Pen drive",
+    "price": 29.75
+  },
+  {
+    "description": "Prato",
+    "price": 9.5
+  },
+  {
+    "description": "Garfo",
+    "price": 1.65
+  },
+  {
+    "description": "IPhone 15",
+    "price": 5000.99
+  },
+  {
+    "description": "Mouse",
+    "price": 79.99
+  },
+  {
+    "description": "Teclado Mecanico",
+    "price": 299.99
+  },
+  {
+    "description": "Monitor 24 polegadas",
+    "price": 899.99
+  },
+  {
+    "description": "Cadeira Gamer",
+    "price": 1249.9
+  },
+  {
+    "description": "Notebook",
+    "price": 3499.99
+  },
+  {
+    "description": "Smartwatch",
+    "price": 899.9
+  },
+  {
+    "description": "Fone de Ouvido Bluetooth",
+    "price": 199.9
+  },
+  {
+    "description": "Cafeteira Eletrica",
+    "price": 159.9
+  },
+  {
+    "description": "Liquidificador",
+    "price": 149.9
+  },
+  {
+    "description": "Micro-ondas",
+    "price": 599.99
+  },
+  {
+    "description": "Geladeira",
+    "price": 2899.99
+  },
+  {
+    "description": "Maquina de Lavar",
+    "price": 2199.9
+  },
+  {
+    "description": "Ar condicionado",
+    "price": 1599.99
+  },
+  {
+    "description": "Ventilador",
+    "price": 89.99
+  },
+  {
+    "description": "Televisao 55 polegadas",
+    "price": 3499.99
+  },
+  {
+    "description": "Aparelho de Som",
+    "price": 499.99
+  },
+  {
+    "description": "Torradeira",
+    "price": 69.9
+  },
+  {
+    "description": "Sanduicheira",
+    "price": 59.9
+  },
+  {
+    "description": "Panela de Pressao",
+    "price": 109.9
+  },
+  {
+    "description": "Jogo de Facas",
+    "price": 89.99
+  },
+  {
+    "description": "Conjunto de Copos",
+    "price": 39.9
+  },
+  {
+    "description": "Conjunto de Panelas",
+    "price": 299.99
+  },
+  {
+    "description": "Camera Fotografica",
+    "price": 2499.9
+  },
+  {
+    "description": "Tablet",
+    "price": 1299.99
+  },
+  {
+    "description": "Carregador Portatil",
+    "price": 89.9
+  },
+  {
+    "description": "Smart TV 65 polegadas",
+    "price": 5999.99
+  },
+  {
+    "description": "Home Theater",
+    "price": 1199.99
+  },
+  {
+    "description": "Jogo de Talheres",
+    "price": 79.99
+  },
+  {
+    "description": "Espremedor de Frutas",
+    "price": 59.99
+  },
+  {
+    "description": "Forno Eletrico",
+    "price": 399.9
+  },
+  {
+    "description": "Aspirador de Po",
+    "price": 299.9
+  },
+  {
+    "description": "Maquina de Cafe",
+    "price": 499.99
+  },
+  {
+    "description": "Relogio de Parede",
+    "price": 59.9
+  },
+  {
+    "description": "Abajur",
+    "price": 129.9
+  },
+  {
+    "description": "Impressora",
+    "price": 599.99
+  },
+  {
+    "description": "Scanner",
+    "price": 499.99
+  },
+  {
+    "description": "Roteador Wi-Fi",
+    "price": 199.9
+  },
+  {
+    "description": "HD Externo",
+    "price": 349.99
+  },
+  {
+    "description": "SSD 1TB",
+    "price": 699.99
+  },
+  {
+    "description": "Camera de Seguranca",
+    "price": 399.99
+  },
+  {
+    "description": "Drone",
+    "price": 1499.99
+  }
+]
