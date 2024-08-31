@@ -6,6 +6,7 @@ import { ClientsModule } from 'src/client/bootstrap/clients.module';
 import { BrokerModule } from './broker.module';
 import { EventEmitterModule } from '@nestjs/event-emitter';
 import { ItemsModule } from 'src/item/bootstrap/item.module';
+import { OrdersModule } from 'src/order/bootstrap/order.module';
 
 @Module({
   imports: [
@@ -13,6 +14,7 @@ import { ItemsModule } from 'src/item/bootstrap/item.module';
     PrismaModule,
     ClientsModule,
     ItemsModule,
+    OrdersModule,
     BrokerModule,
   ],
   controllers: [AppController],
