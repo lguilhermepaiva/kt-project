@@ -1,3 +1,3 @@
 export enum MessageBrokerEvent {
-  CURRENCY_EXCHANGE = 'dollar.date',
+  GET_CLIENT_BY_ID = 'client.get-by-id',
 }

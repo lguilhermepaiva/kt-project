@@ -12,7 +12,7 @@ export class ItemController {
   ) {}
 
   @Get()
-  getItems(@Query() query: GetItemFilteredRequest) {
+  async getItems(@Query() query: GetItemFilteredRequest) {
     return this.getItemFilteredQueryHandler.execute(
       GetItemFilteredRequest.toQuery(query),
     );
